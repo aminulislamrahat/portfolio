@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "title": "Vintage Leica M3 Camera",
+    "description": "Classic 35mm film camera known for its precision and iconic design, produced between 1954–1966.",
+    "currentBidPrice": 2700.0,
+    "timeLeft": "1d 8h",
+    "bidsCount": 23,
+    "image": "https://i.ibb.co.com/J8hxGS6/Bid1-min.png"
+  },
+  {
+    "id": "2",
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "Vintage Gibson SG with original hardware and cherry finish, a favorite among rock legends.",
+    "currentBidPrice": 7400.0,
+    "timeLeft": "3d 5h",
+    "bidsCount": 19,
+    "image": "https://i.ibb.co.com/C3GxGdK6/Bid2-min.png"
+  },
+  {
+    "id": "3",
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "Apple’s revolutionary first Macintosh computer, complete with original keyboard and mouse.",
+    "currentBidPrice": 4200.0,
+    "timeLeft": "2d 14h",
+    "bidsCount": 27,
+    "image": "https://i.ibb.co.com/p6kXxxp6/Bid3-min.png"
+  },
+  {
+    "id": "4",
+    "title": "Rolex Submariner 16610",
+    "description": "Iconic Rolex diver's watch featuring a black dial, rotating bezel, and stainless steel construction.",
+    "currentBidPrice": 8900.0,
+    "timeLeft": "1d 23h",
+    "bidsCount": 35,
+    "image": "https://i.ibb.co.com/nNcsjK7j/Bid4-min.png"
+  },
+  {
+    "id": "5",
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "Extremely rare 1925 first edition of the literary classic, in original dust jacket.",
+    "currentBidPrice": 18500.0,
+    "timeLeft": "4d 2h",
+    "bidsCount": 12,
+    "image": "https://i.ibb.co.com/Q7GVSckW/Bid6-min.png"
+  },
+  {
+    "id": "6",
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "Authentic Eames Lounge Chair and Ottoman set in rosewood and black leather, excellent condition.",
+    "currentBidPrice": 3800.0,
+    "timeLeft": "5h 45m",
+    "bidsCount": 18,
+    "image": "https://i.ibb.co.com/4R39crCp/Bid5-min.png"
+  },
+  {
+    "id": "7",
+    "title": "Banksy Original Screen Print",
+    "description": "Authentic, signed Banksy screen print with COA, limited edition from early 2000s.",
+    "currentBidPrice": 25000.0,
+    "timeLeft": "3d 12h",
+    "bidsCount": 22,
+    "image": "https://i.ibb.co.com/fzyNDX4y/Bid7-min.png"
+  }
+]
