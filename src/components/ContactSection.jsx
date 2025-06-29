@@ -5,7 +5,7 @@ import { motion } from "motion/react"
 export const ContactSection = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
-    alert('Form submitted! In a real application, this would send your message.');
+    alert('Form submitted!');
   };
 
   return (
@@ -42,27 +42,27 @@ export const ContactSection = () => {
 
             <div className="space-y-6">
               {/* Location */}
-              <ContactItem icon={<MapPin />} title="Location" content="San Francisco, California" />
+              <ContactItem icon={<MapPin />} title="Location" content="Dhaka, Bangladesh" />
 
               {/* Email */}
               <ContactItem
                 icon={<Mail />}
                 title="Email"
-                content={<a href="mailto:john@example.com" className="text-blue-600 dark:text-blue-400 hover:underline">john@example.com</a>}
+                content={<a href="mailto:aminulislambhuiyanrahat@gmail.com" className="text-blue-600 dark:text-blue-400 hover:underline">aminulislambhuiyanrahat@gmail.com</a>}
               />
 
               {/* Phone */}
               <ContactItem
                 icon={<Phone />}
                 title="Phone"
-                content={<a href="tel:+11234567890" className="text-blue-600 dark:text-blue-400 hover:underline">+1 (123) 456-7890</a>}
+                content={<a href="tel:+8801303787899" className="text-blue-600 dark:text-blue-400 hover:underline">+880 1303-787899</a>}
               />
 
               {/* WhatsApp */}
               <ContactItem
                 icon={<MessageSquare />}
                 title="WhatsApp"
-                content={<a href="https://wa.me/11234567890" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">+1 (123) 456-7890</a>}
+                content={<a href="https://wa.me/1521334698" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">+880 1521-334698</a>}
               />
             </div>
           </motion.div>

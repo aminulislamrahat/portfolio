@@ -17,7 +17,7 @@ export const Footer = () => {
           duration: 0.5
         }}>
           <a href="#home" className="text-2xl font-bold text-blue-400 dark:text-blue-300">
-            John.dev
+            AIR
           </a>
           <p className="mt-2 text-gray-400 dark:text-gray-500">
             Creating beautiful web experiences.
@@ -43,7 +43,7 @@ export const Footer = () => {
             <ArrowUpIcon size={20} />
           </motion.a>
           <p className="text-gray-400 dark:text-gray-500">
-            &copy; {new Date().getFullYear()} John Doe. All rights reserved.
+            &copy; {new Date().getFullYear()} Aminul Islam Rahat. All rights reserved.
           </p>
         </motion.div>
       </div>

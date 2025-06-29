@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { motion } from "motion/react"
 import { X, ExternalLink, Github } from 'lucide-react';
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -13,7 +13,7 @@ export const ProjectModal = ({
 }) => {
   if (!project) return null;
   // Prevent scrolling when modal is open
-  React.useEffect(() => {
+  useEffect(() => {
     document.body.style.overflow = 'hidden';
     return () => {
       document.body.style.overflow = 'auto';
