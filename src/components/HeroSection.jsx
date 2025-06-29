@@ -145,14 +145,14 @@ export const HeroSection = () => {
           delay: 0.7,
           duration: 0.5
         }}>
-          <motion.button onClick={handleResumeDownload} className="px-6 py-3 bg-blue-600 dark:bg-blue-700 text-white rounded-md hover:bg-blue-700 dark:hover:bg-blue-600 transition-all duration-300 flex items-center gap-2 group" whileHover={{
+          <motion.a href="/Resume of Md. Aminul Islam Bhuiyan.pdf" target="_blank" className="px-6 py-3 bg-blue-600 dark:bg-blue-700 text-white rounded-md hover:bg-blue-700 dark:hover:bg-blue-600 transition-all duration-300 flex items-center gap-2 group" whileHover={{
             scale: 1.05
           }} whileTap={{
             scale: 0.95
           }}>
             <FileText size={18} className="group-hover:animate-bounce" />
             Download Resume
-          </motion.button>
+          </motion.a>
           <motion.a href="#contact" className="px-6 py-3 bg-indigo-600 dark:bg-indigo-700 text-white rounded-md hover:bg-indigo-700 dark:hover:bg-indigo-600 transition-all duration-300" whileHover={{
             scale: 1.05
           }} whileTap={{
