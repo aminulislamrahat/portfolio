@@ -131,14 +131,14 @@ export const ProjectsSection = ({
           }}>
             All
           </motion.button>
-          <motion.button onClick={() => setFilter('public')} className={`px-4 py-2 rounded-md transition-all duration-300 ${filter === 'react' ? 'bg-blue-600 dark:bg-blue-500 text-white shadow-lg' : 'text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'}`} whileHover={{
+          <motion.button onClick={() => setFilter('public')} className={`px-4 py-2 rounded-md transition-all duration-300 ${filter === 'public' ? 'bg-blue-600 dark:bg-blue-500 text-white shadow-lg' : 'text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'}`} whileHover={{
             scale: 1.05
           }} whileTap={{
             scale: 0.95
           }}>
             Public
           </motion.button>
-          <motion.button onClick={() => setFilter('private')} className={`px-4 py-2 rounded-md transition-all duration-300 ${filter === 'javascript' ? 'bg-blue-600 dark:bg-blue-500 text-white shadow-lg' : 'text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'}`} whileHover={{
+          <motion.button onClick={() => setFilter('private')} className={`px-4 py-2 rounded-md transition-all duration-300 ${filter === 'private' ? 'bg-blue-600 dark:bg-blue-500 text-white shadow-lg' : 'text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'}`} whileHover={{
             scale: 1.05
           }} whileTap={{
             scale: 0.95
