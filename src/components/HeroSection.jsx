@@ -147,7 +147,7 @@ export const HeroSection = () => {
         }}>
           <motion.a
 
-            href="https://drive.google.com/file/d/1ec__Ylz1f8jM4jUXJgGYbwJoaFsu68-w/view?usp=sharing"
+            href="https://drive.google.com/file/d/1jyzZwo0PgbsEHNu_7ENRgCUXIW9AhBSB/view?usp=sharing"
 
             target="_blank" className="px-6 py-3 bg-blue-600 dark:bg-blue-700 text-white rounded-md hover:bg-blue-700 dark:hover:bg-blue-600 transition-all duration-300 flex items-center gap-2 group" whileHover={{
               scale: 1.05
