@@ -106,7 +106,7 @@ export const HeroSection = () => {
           }}>
             <Github size={20} />
           </motion.a>
-          <motion.a href="https://www.linkedin.com/in/md-aminul-islam-rahat-803437219/" target="_blank" rel="noopener noreferrer" className="p-2 bg-blue-700 text-white rounded-full hover:bg-blue-600 transition-all duration-300 hover:scale-110" whileHover={{
+          <motion.a href="https://www.linkedin.com/in/md-aminul-islam-bhuiyan/" target="_blank" rel="noopener noreferrer" className="p-2 bg-blue-700 text-white rounded-full hover:bg-blue-600 transition-all duration-300 hover:scale-110" whileHover={{
             y: -5
           }} whileTap={{
             scale: 0.9
